@@ -1,0 +1,1341 @@
+
+body{
+background-color:#191f21;
+font-family: arial;
+}
+
+.head{
+width: 100%;
+background-image: url(../images/kyla.jpg);
+background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+
+.name{
+margin: 0 auto;
+padding-top: 17%;
+}
+
+
+
+
+.name h1{
+    
+   text-align: center;
+    font-family: arial;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    display: table;
+    margin: 0 auto;
+
+
+}
+
+
+.learn{
+padding-top: 40px;
+
+}
+
+
+
+
+
+.learn a{
+margin: 0 auto;
+border: 1px solid white;
+text-align: center;
+display: table;
+padding: 10px;
+text-decoration: none; 
+font-size: 15px;
+color: white;
+
+}
+.learn{
+padding-bottom: 17%;
+}
+.href{
+/*padding-top: 15px;*/
+width: 100%;
+padding-top: 20px;
+padding-bottom: 20px;
+
+background-color: #252e30;
+
+}
+
+.home{
+max-width: 1200px;
+margin:0 auto;
+overflow: auto;
+}
+ .href img{
+ 	max-width:55px; 
+     height:30px;
+
+}
+
+
+.home header{
+float: right;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+
+
+.home header a{
+
+
+text-decoration: none;
+text-align: center;
+padding-left: 15px;
+font-size: 10px;
+font-weight: bold;
+font-size: 13px;
+color: white;
+ }
+
+
+
+.home a:nth-child(2) {
+    color: #2ecc71;
+
+}
+
+
+.secondcontent{
+   background-color: white;
+}
+
+.values, .goals, .hobbies{
+padding-top: 50px;
+padding-bottom: 30px;
+width: 30%;
+float: left;
+overflow: auto;
+}
+.values h4, .hobbies h4, .goals h4{
+color: #566366;
+}
+
+.values p, .hobbies p, .goals p{
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.values, .goals{
+margin-right: 5%;
+}
+
+.contone{
+    width: 100%;
+background-color: #f2f2f1;
+}
+.image{
+max-width: 410px;
+min-height: 450px;
+background-image: url(../images/kyla2.jpg);
+    background-size: cover;
+
+}
+.about{
+padding-top: 30px;
+    max-width: 790px;
+    min-height: 400px;
+
+}
+.image, .about{
+     float: left;
+     overflow: auto;
+}
+.ambitious{
+max-width: 650px;
+float: right;
+}
+.ambitious h3{
+    color: #566366;
+}
+.ambitious p{
+    color: #919191;
+    line-height: 1.5em;
+}
+
+.website{
+max-width: 650px;
+float: right;
+}
+.web, .drawing, .online, .seo{
+width: 50%;
+float: left;
+overflow: auto;
+}
+
+.web h5, .drawing h5, .online h5, .seo h5{
+color: #566366;
+}
+
+.web p, .drawing p, .online p, .seo p{
+color: #919191;
+line-height: 1.5em;
+padding-left: 18px;
+
+}
+.web i, .drawing i, .online i, .seo i{
+  color: #2ecc71;
+}
+
+
+
+.conttwo{
+width: 100%;
+background-color: white;
+
+min-height: 400px;
+}
+
+.skills{
+padding-top: 50px;
+width: 600px;
+min-height: 400px; 
+
+}
+.skills h3{
+    color: #566366;
+}
+
+
+.skills p{
+
+margin-right: 50px;
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.number{
+padding-top: 20px;
+}
+
+
+.number a{
+
+border: 1px solid #2ecc71;
+padding: 10px;
+text-decoration: none; 
+font-family: arial;
+color: #2ecc71;
+}
+.skills,.photoshop{
+float: left;
+overflow: auto;
+}
+
+.photoshop{
+  width: 550px;
+  float: right;
+}
+.photoshop p{
+color: white;
+font-weight: bold;
+text-align: right;
+margin-right:10px;
+padding-top: 5px; 
+}
+
+
+.gradient{
+margin-top: 100px;
+}
+
+
+.shop,.adobe,.script,.css{
+
+    max-width: 530px;
+    height: 30px; 
+    background-color: #f2f2f1;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
+.shop{
+margin-top: 10px;
+}
+
+
+.percent{
+max-width: 435px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+
+.akira{
+max-width: 424px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+.indesign{
+max-width: 450px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+.html{
+
+max-width: 424px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+
+
+.photoshop h5{
+margin-left: 20px;
+color: #566366;
+}
+.cv{
+max-width: 100%;
+min-height: 200px;
+background-color: #f2f2f1;
+}
+.lorem h3{
+    color: #566366;
+
+}
+.lorem p{
+   color: #919191;
+   line-height: 1.5em;
+}
+
+
+.download{
+margin-top: 30px;
+}
+
+
+.download a{
+
+border: 1px solid #2ecc71;
+padding: 10px;
+text-decoration: none; 
+color: #2ecc71;
+
+}
+
+.lorem{
+padding-top: 30px;
+min-height: 200px;
+text-align: center;
+}
+.contsix{
+
+width: 100%;
+min-height: 400px;
+background-color: white;
+}
+.education{
+max-width: 560px;
+min-height: 400px;
+margin-right: 40px;
+margin-top: 30px;
+}
+.education h3{
+color: #566366;
+}
+.education p{
+color: #919191;
+line-height: 1.5em;
+}
+
+.graphic{
+max-width: 560px;
+margin-left: 40px;
+min-height: 400px;
+background-color: ;
+font-family: arial; 
+}
+.education,.graphic{
+float: left;
+overflow: auto;
+}
+
+
+.graphic h5{
+color: #566366;
+}
+
+
+.code{
+margin-top: 90px;
+}
+.box{
+background-color: #2ecc71;
+width: 61px;
+min-height: 30px;
+color: white;
+    
+
+}
+
+.box h6{
+    text-align: center;
+    padding-top: 8px;
+    
+    
+    
+
+}
+
+
+
+.graphic p{
+
+color: #919191;
+line-height: 1.5em;
+
+}
+
+.contseven{
+width: 100%;
+background-color: white;
+}
+
+.experience{
+max-width: 560px;
+margin-right: 40px;
+margin-top: 40px;
+min-height: 500px;
+background-color: ;
+font-family: arial;
+}
+
+
+
+
+.experience h3{
+
+color: #566366;
+}
+
+
+.experience p{
+
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.lead{
+max-width: 560px;
+margin-left: 40px;
+min-height: 500px;
+background-color:;
+font-family: arial;	
+}
+
+
+.lead h5{
+color: #566366;
+}
+
+
+
+
+
+.lisa{
+margin-top: 90px;
+}
+
+
+.lead p{
+
+color: #919191;
+line-height: 1.5em;
+}
+.experience,.lead{
+float: left;
+overflow: auto;
+}
+.conteight{
+padding-top: 40px;
+width: 100%;
+min-height: 160px;
+background-color: #f2f2f1;
+text-align: center;
+}
+
+.conteight p{
+
+     color: #919191;
+     line-height: 1.5em;
+}
+
+
+.conteight h5{
+color: #566366;
+}
+
+.contnine{
+width: 100%;
+background-color: white
+}
+
+.contnine h3, .contnine p{
+text-align: center;
+
+}
+
+
+.contnine h3{
+color: #566366;
+}
+
+
+.contnine p{
+color: #919191;
+line-height: 1.5em;
+} 
+
+
+
+.kumi{
+
+}
+
+.moja, .mbili, .tatu, .nne, .tano, .sita, .saba, .nane, .tisa img{
+
+background-color: blue;
+margin: 40px;
+float: left;
+
+overflow: auto;
+box-shadow: 1px 2px 3px rgb(0,0,0,0.6);
+}
+
+.contten{
+    width: 100%;
+    background-color: #252e30;
+}
+
+.me{
+max-width: 560px;
+margin-right: 40px;
+min-height: 650px;
+}
+
+
+
+
+.me h3{
+margin-top: 50px;
+
+color: white;
+}
+
+
+.me p{
+
+color: #919191;
+line-height: 1.5em;
+}
+
+
+
+
+
+.address{
+max-width: 560px;
+margin-left: 40px;
+min-height: 650px;
+background-color: #252e30;
+font-family: arial;
+}
+
+
+.input h5{
+margin-top: 90px;
+color: white;	
+}
+
+
+.address h5{
+color: white;
+}
+
+
+.one input{
+width: 560px;
+background-color: #919191;
+border: none;
+}
+
+
+.two input{
+width: 560px;
+background-color: #919191;
+border: none;
+}
+
+
+.three input{
+width: 560px;
+height: 200px;
+background-color: #919191;
+border: none;
+}
+
+
+.four{
+margin-top: 40px;
+
+}
+
+
+.four a{
+border: 1px solid #191f21;
+padding: 10px;
+text-decoration: none; 
+font-family: arial;
+background-color:#191f21;
+color: white;
+}
+.me,.address{
+float: left;
+overflow: auto;
+}
+
+.contlast{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+color: #919191;
+font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+background-color:#191f21;
+font-family: arial;
+}
+
+.head{
+width: 100%;
+background-image: url(../images/shadow.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.name{
+margin: 0 auto;
+padding-top: 17%;
+}
+
+
+
+
+.name h1{
+    
+   text-align: center;
+    font-family: arial;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    display: table;
+    margin: 0 auto;
+
+
+}
+
+
+.learn{
+padding-top: 40px;
+
+}
+
+
+
+
+
+.learn a{
+margin: 0 auto;
+border: 1px solid white;
+text-align: center;
+display: table;
+padding: 10px;
+text-decoration: none; 
+font-size: 15px;
+color: white;
+
+}
+.learn{
+padding-bottom: 17%;
+}
+.href{
+/*padding-top: 15px;*/
+width: 100%;
+padding-top: 20px;
+padding-bottom: 20px;
+
+background-color: #252e30;
+
+}
+
+.home{
+max-width: 1200px;
+margin:0 auto;
+overflow: auto;
+}
+ .href img{
+ 	max-width:55px; 
+     height:30px;
+
+}
+
+
+.home header{
+float: right;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+
+
+.home header a{
+
+
+text-decoration: none;
+text-align: center;
+padding-left: 15px;
+font-size: 10px;
+font-weight: bold;
+font-size: 13px;
+color: white;
+ }
+
+
+
+.home a:nth-child(2) {
+    color: #2ecc71;
+
+}
+
+
+.secondcontent{
+   background-color: white;
+}
+
+.values, .goals, .hobbies{
+padding-top: 50px;
+padding-bottom: 30px;
+width: 30%;
+float: left;
+overflow: auto;
+}
+.values h4, .hobbies h4, .goals h4{
+color: #566366;
+}
+
+.values p, .hobbies p, .goals p{
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.values, .goals{
+margin-right: 5%;
+}
+
+.contone{
+    width: 100%;
+background-color: #f2f2f1;
+}
+.image{
+max-width: 410px;
+min-height: 450px;
+background-image: url(../images/girl.jpg);
+    background-size: cover;
+
+}
+.about{
+padding-top: 30px;
+    max-width: 790px;
+    min-height: 400px;
+
+}
+.image, .about{
+     float: left;
+     overflow: auto;
+}
+.ambitious{
+max-width: 650px;
+float: right;
+}
+.ambitious h3{
+    color: #566366;
+}
+.ambitious p{
+    color: #919191;
+    line-height: 1.5em;
+}
+
+.website{
+max-width: 650px;
+float: right;
+}
+.web, .drawing, .online, .seo{
+width: 50%;
+float: left;
+overflow: auto;
+}
+
+.web h5, .drawing h5, .online h5, .seo h5{
+color: #566366;
+}
+
+.web p, .drawing p, .online p, .seo p{
+color: #919191;
+line-height: 1.5em;
+padding-left: 18px;
+
+}
+.web i, .drawing i, .online i, .seo i{
+  color: #2ecc71;
+}
+
+
+
+.conttwo{
+width: 100%;
+background-color: white;
+
+min-height: 400px;
+}
+
+.skills{
+padding-top: 50px;
+width: 600px;
+min-height: 400px; 
+
+}
+.skills h3{
+    color: #566366;
+}
+
+
+.skills p{
+
+margin-right: 50px;
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.number{
+padding-top: 20px;
+}
+
+
+.number a{
+
+border: 1px solid #2ecc71;
+padding: 10px;
+text-decoration: none; 
+font-family: arial;
+color: #2ecc71;
+}
+.skills,.photoshop{
+float: left;
+overflow: auto;
+}
+
+.photoshop{
+  max-width: 550px;
+  float: right;
+}
+.photoshop p{
+color: white;
+font-weight: bold;
+text-align: right;
+margin-right:10px;
+padding-top: 5px; 
+}
+
+
+.gradient{
+margin-top: 100px;
+}
+
+
+.shop,.adobe,.script,.css{
+
+    max-width: 530px;
+    height: 30px; 
+    background-color: #f2f2f1;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
+.shop{
+margin-top: 10px;
+}
+
+
+.percent{
+max-width: 435px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+
+.akira{
+max-width: 424px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+.indesign{
+max-width: 450px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+.html{
+
+max-width: 424px;
+height: 30px;
+background-color: #2ecc71;
+}
+
+
+
+.photoshop h5{
+margin-left: 20px;
+color: #566366;
+}
+.cv{
+max-width: 100%;
+min-height: 200px;
+background-color: #f2f2f1;
+}
+.lorem h3{
+    color: #566366;
+
+}
+.lorem p{
+   color: #919191;
+   line-height: 1.5em;
+}
+
+
+.download{
+margin-top: 30px;
+}
+
+
+.download a{
+
+border: 1px solid #2ecc71;
+padding: 10px;
+text-decoration: none; 
+color: #2ecc71;
+
+}
+
+.lorem{
+padding-top: 30px;
+min-height: 200px;
+text-align: center;
+}
+.contsix{
+
+width: 100%;
+min-height: 400px;
+background-color: white;
+}
+.education{
+max-width: 560px;
+min-height: 400px;
+margin-right: 40px;
+margin-top: 30px;
+}
+.education h3{
+color: #566366;
+}
+.education p{
+color: #919191;
+line-height: 1.5em;
+}
+
+.graphic{
+max-width: 560px;
+margin-left: 40px;
+min-height: 400px;
+background-color: ;
+font-family: arial; 
+}
+.education,.graphic{
+float: left;
+overflow: auto;
+}
+
+
+.graphic h5{
+color: #566366;
+}
+
+
+.code{
+margin-top: 90px;
+}
+.box{
+background-color: #2ecc71;
+width: 61px;
+min-height: 30px;
+color: white;
+    
+
+}
+
+.box h6{
+    text-align: center;
+    padding-top: 8px;
+    
+    
+    
+
+}
+
+
+
+.graphic p{
+
+color: #919191;
+line-height: 1.5em;
+
+}
+
+.contseven{
+width: 100%;
+background-color: white;
+}
+
+.experience{
+max-width: 560px;
+margin-right: 40px;
+margin-top: 40px;
+min-height: 500px;
+background-color: ;
+font-family: arial;
+}
+
+
+
+
+.experience h3{
+
+color: #566366;
+}
+
+
+.experience p{
+
+color: #919191;
+line-height: 1.5em;
+}
+
+
+.lead{
+max-width: 560px;
+margin-left: 40px;
+min-height: 500px;
+background-color:;
+font-family: arial;	
+}
+
+
+.lead h5{
+color: #566366;
+}
+
+
+
+
+
+.lisa{
+margin-top: 90px;
+}
+
+
+.lead p{
+
+color: #919191;
+line-height: 1.5em;
+}
+.experience,.lead{
+float: left;
+overflow: auto;
+}
+.conteight{
+padding-top: 40px;
+width: 100%;
+min-height: 160px;
+background-color: #f2f2f1;
+text-align: center;
+}
+
+.conteight p{
+
+     color: #919191;
+     line-height: 1.5em;
+}
+
+
+.conteight h5{
+color: #566366;
+}
+
+.contnine{
+width: 100%;
+background-color: white
+}
+
+.contnine h3, .contnine p{
+text-align: center;
+
+}
+
+
+.contnine h3{
+color: #566366;
+}
+
+
+.contnine p{
+color: #919191;
+line-height: 1.5em;
+} 
+
+
+
+.kumi{
+
+}
+
+.moja, .mbili, .tatu, .nne, .tano, .sita, .saba, .nane, .tisa img{
+
+background-color: blue;
+margin: 40px;
+float: left;
+
+overflow: auto;
+box-shadow: 1px 2px 3px rgb(0,0,0,0.6);
+}
+
+.contten{
+    width: 100%;
+    background-color: #252e30;
+}
+
+.me{
+max-width: 560px;
+margin-right: 40px;
+min-height: 650px;
+}
+
+
+
+
+.me h3{
+margin-top: 50px;
+
+color: white;
+}
+
+
+.me p{
+
+color: #919191;
+line-height: 1.5em;
+}
+
+
+
+
+
+.address{
+max-width: 560px;
+margin-left: 40px;
+min-height: 650px;
+background-color: #252e30;
+font-family: arial;
+}
+
+
+.input h5{
+margin-top: 90px;
+color: white;	
+}
+
+
+.address h5{
+color: white;
+}
+
+
+.one input{
+max-width: 560px;
+background-color: #919191;
+border: none;
+}
+
+
+.two input{
+max-width: 560px;
+background-color: #919191;
+border: none;
+}
+
+
+.three input{
+max-width: 560px;
+height: 200px;
+background-color: #919191;
+border: none;
+}
+
+
+.four{
+margin-top: 40px;
+
+}
+
+
+.four a{
+border: 1px solid #191f21;
+padding: 10px;
+text-decoration: none; 
+font-family: arial;
+background-color:#191f21;
+color: white;
+}
+.me,.address{
+float: left;
+overflow: auto;
+}
+
+.contlast{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+color: #919191;
+font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
